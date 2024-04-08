@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0064CD,100:98D3FF&text=Sujin's%20GitHub%20&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=55&height=200&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0064CD,100:98D3FF&text=Sujin's%20GitHub%20&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=52&height=200&fontColor=FFFFFF)
  <h2 align="center">:ocean: Introduction :ocean:</h2>
  
 <div align="center">
